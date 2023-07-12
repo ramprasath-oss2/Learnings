@@ -1,0 +1,14 @@
+numpy
+matplotlib
+scipy
+sympy
+scikit-learn
+IPython
+jupyter
+black
+nltk
+flask
+twisted
+openai
+pywhatkit
+pygame

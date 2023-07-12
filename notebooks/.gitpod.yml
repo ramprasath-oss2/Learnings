@@ -1,0 +1,3 @@
+tasks:
+  - init: python -m pip install -r requirements.txt  ##  In Windows 
+  - init: python3 -m pip install -r requirements.txt  ##  In Linux 
