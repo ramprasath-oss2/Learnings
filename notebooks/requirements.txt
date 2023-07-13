@@ -6,6 +6,7 @@ scikit-learn
 IPython
 jupyter
 black
+opencv-python
 nltk
 flask
 twisted
