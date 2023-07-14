@@ -1,5 +1,5 @@
 tasks:
-#  In Windows
+# In Windows
   - init: python -m pip install -r requirements.txt   
-#  In Linux
+# In Linux
   - init: python3 -m pip install -r requirements.txt   
